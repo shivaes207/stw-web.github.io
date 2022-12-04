@@ -1,0 +1,7 @@
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: *
+Disallow: /search?q=
+Allow: /
+Sitemap: https://www shivatechnicworld.eu.org/sitemap.xml
+Sitemap: https://www.shivatechnicworld.eu.org/sitemap-pages.xml
